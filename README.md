@@ -12,3 +12,57 @@
 ✍️ &nbsp;In my free time, I enjoy logo design and blog writing as creative outlets.  
 💬 &nbsp;Collaboration and communication are my strengths, and I value teamwork in achieving impactful results.  
 📬 &nbsp;Feel free to email me! I’m always open to meaningful discussions, volunteering, and pro bono consulting.  
+
+## 🛠️ My Skills
+
+###  </picture> Programming Languages
+
+<p align="left"> 
+  &emsp;
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48">
+  &emsp;
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48">
+  &emsp;
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48">
+  &emsp;
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48">
+  &emsp;
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48">
+</p>
+
+### Frontend Development
+
+<p align="left"> 
+  &emsp;
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48">
+  &emsp;
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48">
+  &emsp;
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48">
+</p>
+
+
+### Software & Tools
+
+
+<p align="left"> 
+  &emsp;
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48">
+  &emsp;
+
+  <img alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48">
+  &emsp;
+  <img alt="JSON" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="48">
+  &emsp;
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48">
+</p>
+
+###  IDEs
+
+<p align="left"> 
+  &emsp;
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48">
+  &emsp;
+  <img alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48">
+</p>
+
