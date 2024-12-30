@@ -66,3 +66,43 @@
   <img alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48">
 </p>
 
+## 📁 Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; justify-items: center;">
+
+  <!-- Proyecto Amigurumis -->
+  <div style="text-align: center;">
+    <img src="./amigurumis.png" width="300" alt="Amigurumis Project">
+    <p style="text-align: left;">
+      <a href="https://alejandrorinconperez.github.io/Amigurumins_Proyecto_Personal/#Inicio" target="_blank">Visit Project</a>
+    </p>
+    <p style="text-align: left;">
+      This is a personal project designed to showcase a handcrafted product: earrings made with amigurumi techniques. The project highlights the creative and artistic process, aiming to introduce the uniqueness of handmade jewelry to the public.
+    </p>
+  </div>
+
+  <!-- Sistema Parquedero -->
+  <div style="text-align: center;">
+    <img src="./Parquadero .png" width="300" alt="Sistema Parquedero">
+    <p style="text-align: left;">
+      <a href="https://alejandrorinconperez.github.io/Proyecto_JavaScript_AlejandroRinconPerez/" target="_blank">Visit Project</a>
+    </p>
+    <p style="text-align: left;">
+      This project is a parking management system that allows the easy entry and exit of vehicles. It aims to provide an intuitive and well-organized interface for managing parking spaces, making it simpler for users to find available spots and manage vehicle movements.
+    </p>
+  </div>
+
+  <!-- Hamburgueseria -->
+  <div style="text-align: center;">
+    <img src="./Hamburger.png" width="300" alt="Hamburgueseria Project">
+    <p style="text-align: left;">
+      <a href="https://alejandrorinconperez.github.io/Pagina_Hambuerguesas_Alejnadro/" target="_blank">Visit Project</a>
+    </p>
+    <p style="text-align: left;">
+      This project serves as a reflection of my front-end development skills. It is a landing page for a fictional hamburger restaurant, created with a focus on user experience and responsive design, offering an engaging and visually appealing interface.
+    </p>
+  </div>
+
+</div>
+
+
