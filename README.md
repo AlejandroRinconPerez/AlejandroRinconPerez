@@ -121,11 +121,6 @@
 </p>
 
 
-## 🐍 A Snake Eating my Contributions Graph
-
-
- ![Snake animation](https://alejandrorinconperez.github.io/alejandrorinconperez/snake.svg)
-
 
 
 
