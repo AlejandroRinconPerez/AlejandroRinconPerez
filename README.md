@@ -105,4 +105,18 @@
 
 </div>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandrorinconperez&show_icons=true&theme=radical" alt="Alejandro's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrorinconperez&layout=compact&theme=radical" alt="Alejandro's Top Languages" />
+</p>
+
+## 🚀 Learning Path
+- Began my journey with **Python** to understand programming fundamentals and problem-solving.  
+- Gained experience in **HTML** and **JavaScript**, focusing on front-end development and creating interactive user interfaces.  
+- Expanded my skills in **SQL** for database management and efficient querying.  
+- Explored **Java** for building robust and scalable applications.  
+- Learned **PostgreSQL**, diving deeper into advanced relational database concepts.  
+- Currently mastering **Spring Boot** to develop microservice-based back-end applications.  
 
