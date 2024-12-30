@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Ejecuta cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generar datos de la serpiente
+        uses: Platane/snk@v2
+        with:
+          github_user_name: alejandrorinconperez
+          outputs: dist/snake.svg
+      - name: Publicar artefacto
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake.svg
+          path: dist/snake.svg
