@@ -1,22 +1,36 @@
-name: Generate Snake
+name: Generar Snake
 
 on:
+  # Programa la acción para que se ejecute diariamente a la medianoche
   schedule:
-    - cron: "0 */6 * * *"  # Ejecuta cada 6 horas
+    - cron: "0 0 * * *"
+  # Permite ejecutar la acción manualmente desde la pestaña de Actions
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Generar datos de la serpiente
-        uses: Platane/snk@v2
+      # Revisa el repositorio
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Genera la animación de la serpiente y la guarda en la raíz del repositorio
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: alejandrorinconperez
-          outputs: dist/snake.svg
-      - name: Publicar artefacto
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake.svg
-          path: dist/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-snake.svg
+
+      # Confirma y sube el archivo generado al repositorio
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add github-snake.svg
+          git commit -m "Generar animación de la serpiente"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
